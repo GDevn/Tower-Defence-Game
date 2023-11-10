@@ -1,5 +1,5 @@
                                       Assignment 1
-                        Author: George Devean Sinining [20165484]
+                            Author: George Devean Sinining
                         
                         # README Format inspired from previous 
                                     unit submissions. 
